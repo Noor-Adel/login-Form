@@ -1,0 +1,42 @@
+body{
+    background-color: #a6f9ea;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contiant { 
+    padding: 10px;
+    margin-right: auto;
+    border: 4px ;}
+#text {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+}
+
+
+
+.form { 
+ 
+    display: block;
+    margin: 0 auto;
+width: 700;
+    padding: 10px 20px;
+        border: 30;
+    background-color: #ecfbf8;
+}
+ button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+           
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
